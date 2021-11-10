@@ -1,2 +1,2 @@
 ## Preview
-![Preview](https://github.com/MohaEttaibi/UI-UX/blob/Day-9/Flash_Message.png)
+![Preview](https://github.com/MohaEttaibi/UI-UX/blob/Day-10/Single_Product.png)
