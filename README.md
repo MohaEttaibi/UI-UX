@@ -1,2 +1,2 @@
 ## Preview
-![Preview](https://github.com/MohaEttaibi/UI-UX/blob/Day-16/Analytics-Chart.png)
+![Preview](https://github.com/MohaEttaibi/UI-UX/blob/Day-17/Leaderboard.png)
