@@ -1,2 +1,2 @@
 ## Preview
-![Preview](https://github.com/MohaEttaibi/UI-UX/blob/Portfolio/Portfolio.jpg)
+![Preview](https://github.com/MohaEttaibi/UI-UX/blob/Day-19/Dashboard.jpg)
